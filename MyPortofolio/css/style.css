@@ -36,7 +36,7 @@ h2 {
 }
 
 a {
-    color: #2196f3;
+    color: #484b4d;
 }
 
 a:hover,
@@ -60,7 +60,7 @@ a:active {
   }
 
   .list-social-icons a:hover {
-      color: #2196f3;
+      color: #484b4d;
   }
 
   .list-social-icons a .fa-lg {
@@ -72,7 +72,7 @@ a:active {
   }
 
   .list-icons .list-inline-item i:hover {
-      color: #2196f3;
+      color:#484b4d;
   }
 
 /*==================================================
@@ -102,7 +102,7 @@ a:active {
       #sideNav .navbar-brand .img-profile {
           max-width: 10rem;
           max-height: 10rem;
-          border: 0.5rem solid rgba(255, 255, 255, 0.2);
+          border: 0.5rem solid rgba(0, 0, 0, 0.2);
       }
       #sideNav .navbar-collapse {
           display: flex;
@@ -139,26 +139,26 @@ a:active {
 }
 
 .btn-white {
-    border-color: #2196f3;
-    background-color: #2196f3;
+    border-color: #484b4d;
+    background-color:#484b4d;
     color: #fff;
 }
 
 .btn-white:hover,
 .btn-white:focus {
     background-color: transparent;
-    color: #2196f3;
+    color: #484b4d;
     cursor: pointer;
 }
 
 .btn-green {
-    border-color: #2196f3;
-    color: #2196f3;
+    border-color: #484b4d;
+    color: #484b4d;
 }
 
 .btn-green:hover,
 .btn-green:focus {
-    background-color: #2196f3;
+    background-color: #484b4d;
     color: #fff;
     cursor: pointer;
 }
@@ -169,7 +169,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
-      background-color: #2196f3;
+      background-color: #484b4d;
       margin: 0 auto 20px auto;
   }
 
@@ -200,11 +200,11 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #484b4d !important;
   }
 
   .text-primary {
-      color: #2196f3 !important;
+      color: #484b4d !important;
   }
 
 /*==================================================
@@ -423,7 +423,7 @@ a:active {
 }
 
 .skill-item i {
-    color: #2196f3;
+    color: #fff;
 }
 
 .skill-item h2 {
@@ -709,7 +709,7 @@ a:active {
 }
 
 .contact-box-desc h3 i{
-  color: #2196f3;
+  color: #484b4d;
 }
 
 .social-icon-f li{
@@ -720,7 +720,7 @@ a:active {
   height: 35px;
   width:35px;
   line-height: 35px;
-  border:2px solid #2196f3;
+  border:2px solid #484b4d;
   text-align: center;
   margin-right: 10px;
   border-radius: 50%;
