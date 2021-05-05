@@ -4,7 +4,7 @@
 body {
     font-family: 'Open Sans', serif;
     padding-top: 54px;
-    color: #868e96;
+    color: #343a40;
 }
 
 @media (min-width: 992px) {
@@ -211,7 +211,7 @@ a:active {
                       ABOUT
 ====================================================*/
   #about {
-      background-image: url(../img/leonard.jpg); 
+      background-image: url(../img/Formal-me2.jpeg); 
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
